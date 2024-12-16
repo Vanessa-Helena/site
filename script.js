@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             // Esperar 3 segundos e redirecionar para a página de login
             setTimeout(function() {
-                window.location.href = 'login.html'; // Redireciona para a página de login após 3 segundos
+                window.location.href = 'index.html'; // Redireciona para a página de login após 3 segundos
             }, 3000); // Tempo em milissegundos
         });
     } else {
